@@ -1,0 +1,73 @@
+
+.heading{
+  /* margin: 200px; */
+  padding: 100px;
+  text-align: center;
+  color: white;
+
+}
+
+h1{
+  font-size: 100px;
+}
+
+.green{
+  color: #3BB99B
+}
+
+
+.search-bar-div{
+  margin: auto;
+  height: 50px;
+  width: 50%;
+  border-radius: 50px;
+  background-color: #fff;
+}
+
+.body-content{
+  background-color: #282C34;
+}
+
+.fa-search{
+  padding: 15px;
+  min-width: 40px;
+}
+
+.fa-microphone{
+  color: red;
+  float: right;
+  padding-top: 15px;
+  margin-right: 15px;
+}
+
+.two-elements{
+  text-align: center;
+  margin-top: 30px
+}
+
+.btn{
+  border-radius: 1px;
+  height: 55px;
+  width: 230px;
+  margin: 15px;
+}
+
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #707793;
+  color: #F8F8F8;
+  padding: 10px;
+}
+
+.footer-ele{
+  display: inline-block;
+  padding: 8px;
+}
+
+.footer-right-element{
+  float: right;
+}
